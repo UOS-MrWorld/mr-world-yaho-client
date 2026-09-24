@@ -45,7 +45,7 @@ src/
 
 ### api/
 
-`api/` 안의 파일은 [서버 저장소](https://github.com/UOS-MrWorld/mr-world-yaho-server)의 패키지와 1:1로 대응한다. 서버 쪽에 새 도메인이 생기면 여기도 같은 이름으로 파일을 추가해야 한다.
+`api/` 안의 파일은 [서버 저장소](https://github.com/UOS-MrWorld/mr-world-cuty-server)의 패키지와 1:1로 대응한다. 서버 쪽에 새 도메인이 생기면 여기도 같은 이름으로 파일을 추가해야 한다.
 
 | 파일 | 대응하는 서버 도메인 | 다루는 API |
 | --- | --- | --- |
